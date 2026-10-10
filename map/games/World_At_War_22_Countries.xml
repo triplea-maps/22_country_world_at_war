@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-	<info name="22 Country World At War" version="1.0"/>
+	<info name="World At War 22 Countries" version="1.1"/>
 	<loader javaClass="games.strategy.triplea.TripleA"/>
     <diceSides value="6"/>
 	<map>
@@ -10104,7 +10104,7 @@
 			<boolean/>
 		</property>
 
-		<property name="mapName" value="22_country_world_at_war" editable="false">
+		<property name="mapName" value="world_at_war_22_countries" editable="false">
 			<string/>
 		</property>
 
